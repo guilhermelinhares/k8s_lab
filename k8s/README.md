@@ -148,3 +148,22 @@ kubectl apply -f metallb-config.yaml
 ```
 kubectl apply -f metallb-pod-loadbalancer.yaml
 ```
+
+### Cluster With Local Registry
+
+The following shell script will create a local docker registry and a kind cluster with it enabled.
+
+```
+sh ../registry/kind/registry.sh
+```
+
+* Check if created registry cluster
+
+```
+kind get clusters
+```
+Output
+```
+k8s-lab
+kind
+```

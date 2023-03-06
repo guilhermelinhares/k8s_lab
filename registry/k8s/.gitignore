@@ -1,0 +1,8 @@
+#Certs 
+/certs/*
+
+#auth
+/auth/*
+
+#registry.yaml
+registry.yaml
