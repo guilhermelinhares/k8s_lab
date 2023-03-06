@@ -19,7 +19,7 @@ The propose project is create a simple environment for testing
 ### Installing
 
 * [Link](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli) install terraform pack
-* [Link](https://gist.github.com/guilhermelinhares/9a6fac8b02569fa174e17a3e1de834e3) install docker
+* [Link](https://gist.github.com/guilhermelinhares/9a6fac8b02569fa174e17a3e1de834e3) Install docker
 
 ### Executing Terraform 
 
