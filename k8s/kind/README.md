@@ -167,3 +167,8 @@ Output
 k8s-lab
 kind
 ```
+* Example push image to kind registry
+
+```
+docker push localhost:5001/docker-image:docker-tag
+```
